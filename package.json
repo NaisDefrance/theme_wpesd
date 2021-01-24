@@ -68,6 +68,7 @@
     "wp-pot-cli": "^1.2.4"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.6.0"
+    "@babel/polyfill": "^7.6.0",
+    "serialize-javascript": "^5.0.1"
   }
 }
